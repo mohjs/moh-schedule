@@ -1,0 +1,19 @@
+{
+  "name": "moh-schedule",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ole3021/moh-schedule.git"
+  },
+  "author": "ole3021 (Oliver.W)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ole3021/moh-schedule/issues"
+  },
+  "homepage": "https://github.com/ole3021/moh-schedule#readme"
+}
